@@ -489,7 +489,7 @@ a {
 
 .dark {
   background-color: #161616;
-  background-image: url(../img/pattern_40.gif);
+/*   background-image: url(../img/pattern_40.gif); */
   background-position: top left;
   background-repeat: repeat;
   color: #fff;
